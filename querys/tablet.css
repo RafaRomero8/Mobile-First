@@ -1,0 +1,21 @@
+.main-tables-container{
+
+    display: flex;/*los pondra horizontal*/
+    margin: 0 auto;
+    width: 930px;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;/*el contenido se empiece a acomodar utilizando el felx
+    para que no genere un over-flow*/
+    width: 930px;/*donde queremos que haga el cambio,no crecer hasta 930px*/
+   margin: 0 auto;/*se acomode solo*/  
+}
+
+.plans-container--slider{
+    justify-content: center;/*centra el contenido a partir de los 930px*/
+}
+
+
+

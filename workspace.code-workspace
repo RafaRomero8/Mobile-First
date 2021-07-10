@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\async"
+		},
+		{
+			"path": "..\\..\\..\\..\\ASINCRONISMO"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html_css"
+	}
+}
